@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 //import 'package:hexcolor/hexcolor.dart';
-// import 'package:widget_detail/constants/colors.dart' ;
+// import 'package:widget_detail/constants/colors.dart ;
 
 void main() {
   runApp(const WidgetDetail());
