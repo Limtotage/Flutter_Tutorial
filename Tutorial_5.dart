@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-/* Tutorail_5 Column & Row
+/* Tutorial_5 Column & Row
  * body:Row(
           // default olarak start gelir.
           //.spaceEvenly arasına Rowu dolduracak şekilde boşluk koyarak 
