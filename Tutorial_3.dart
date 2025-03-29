@@ -8,7 +8,7 @@ import 'package:flutter/material.dart';
  * çoklu foto için yolu sadece klasöre kadar kaydetmek yeterli ".../images" gibi
 */
 void main() {
-  runApp(const WidgetDetail());
+  runApp(const WidgetDetail()); 
 }
 
 class WidgetDetail extends StatefulWidget {
